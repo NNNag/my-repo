@@ -81,3 +81,10 @@ High: 5464.35
 Low: 5184.48
 Close: 5357
 ```
+
+#######################################################################
+Instructions to run the Automated Tests
+#######################################################################
+To run the UI Automation use the command: npx wdio
+To run the API Automation use the command: npm run test:stocksapi
+#######################################################################
